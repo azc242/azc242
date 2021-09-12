@@ -3,9 +3,9 @@ I am currently pusuing a bachelors in computer science at New York University.
 
 I enjoy creating things and am an advocate of lifelong learning. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-alanzchen242-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alanzchen242/)](https://linkedin.com/in/alanzchen242/) [![Gmail Badge](https://img.shields.io/badge/-azc242@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:azc242@gmail.com) [![Medium Badge](https://img.shields.io/badge/-@azc242-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@azc242/)](https://medium.com/@azc242)
+[![Linkedin Badge](https://img.shields.io/badge/-alanzchen242-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alanzchen242/)](https://linkedin.com/in/alanzchen242/) [![Gmail Badge](https://img.shields.io/badge/-azc242@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:azc242@gmail.com)
 - 😄 Pronouns: He/Him/Himself
-- 🌱 I’m currently learning: containerization
+- 🌱 I’m currently learning: best practices for software development
 - 💻 Currently improving: my python skills
 - 👨‍💻 What I'm working on: [LinkedOut](https://github.com/azc242/LinkedOut) Chrome Extension
 - ⚡ Fun fact: I play for New York University's men's golf team
