@@ -8,7 +8,6 @@ I enjoy creating things and am an advocate of lifelong learning. Feel free to co
 - 🌱 I’m currently learning: best practices for software development
 - 💻 Currently improving: my python skills
 - 👨‍💻 What I'm working on: [LinkedOut](https://github.com/azc242/LinkedOut) Chrome Extension
-- ⚡ Fun fact: I play for New York University's men's golf team
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=azc242&count_private=true&show_icons=true&include_all_commits=true&hide=stars,,prs&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azc242&layout=compact&theme=graywhite)
